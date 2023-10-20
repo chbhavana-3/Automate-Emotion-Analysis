@@ -21,7 +21,7 @@ Solution Approach:
 9.	Check if the words in final words list is also present in emotion.txt and extract the word and emotion using split
 10.	Creating a new list called text_emotion and adding the word if the word is present in the emotion text file
 11.	Plotting the text_emotion on the graph
-12.	12.Try out the same model with a different data set and compare the results
+12.	Try out the same model with a different data set and compare the results
 
 Algorithms:
           Installing Transformers
